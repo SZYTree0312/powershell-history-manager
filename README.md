@@ -33,7 +33,7 @@ PowerShell 的历史记录存在 `ConsoleHost_history.txt` 里，按 `↑` 键�
 
 **方式一：直接用打包好的 exe**
 
-到 [Releases](../../releases) 页面下载 `PS历史管理器1.0.exe`，双击即可。
+到 [Releases](../../releases) 页面下载 `PS-History-Manager-1.0.exe`，双击即可。
 免安装、免 Python 环境。首次运行 Windows 可能弹 SmartScreen 提示 ——
 选「更多信息」→「仍要运行」。
 
