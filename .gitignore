@@ -1,0 +1,18 @@
+# PyInstaller 构建产物（exe 走 Release 附件，不进仓库）
+build/
+dist/
+*.manifest
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 工作记忆目录（个人笔记，不发布）
+.workbuddy/
