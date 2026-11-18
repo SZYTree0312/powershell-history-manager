@@ -37,6 +37,10 @@ PowerShell 的历史记录存在 `ConsoleHost_history.txt` 里，按 `↑` 键�
 免安装、免 Python 环境。首次运行 Windows 可能弹 SmartScreen 提示 ——
 选「更多信息」→「仍要运行」。
 
+> 已于 2026-11-18 刷新附件：旧版 exe 漏打包 tkinter 运行库，双击无法启动；
+> 现已用带 tkinter 的 Python 3.13 重新打包覆盖同版本附件（11.7 MB）。
+> 如果你之前下载过无法启动的版本，重新下载覆盖即可。
+
 **方式二：从源码跑**
 
 只依赖 Python 标准库（`tkinter`），不需要 `pip install` 任何东西：
